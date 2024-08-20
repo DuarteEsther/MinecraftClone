@@ -12,6 +12,7 @@ Tecla Z >   atacar com armadura
 
 
 Mouse:
+
 Esquerda >   Seleciona item
 
 Direits >   Adiciona item no mapa
