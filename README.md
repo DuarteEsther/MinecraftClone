@@ -8,7 +8,7 @@ Seta para direita >   Ir para direita
 
 Seta para esquerda >   Ir para esquerda
 
-Tecla Z >   atacar com armadura
+Tecla Z >   atacar inimigo com armadura
 
 
 Mouse:
