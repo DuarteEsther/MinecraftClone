@@ -16,3 +16,5 @@ Mouse:
 Esquerda >   Seleciona item
 
 Direits >   Adiciona item no mapa
+
+Item azul > Remove blocos
